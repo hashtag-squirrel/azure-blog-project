@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'alitas-blog'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B72D54AC6FF47DD9DB3281DC55D42C5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5659198E311641AD9737F07CF4F4A01F }}
