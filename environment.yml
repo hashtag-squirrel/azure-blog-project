@@ -1,0 +1,8 @@
+name: AzureBlog
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - azure-cosmos
+    - flask
+    - python-dotenv
